@@ -25,7 +25,6 @@ class Classifier :
 
 def main() :
     c = Classifier()
-    
     # Result 0
     url = "https://raw.githubusercontent.com/tphinkle/tphinkle.github.io/master/images/2017-8-15/mnist_1.png"
     # Result 4
